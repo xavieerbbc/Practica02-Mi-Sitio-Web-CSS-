@@ -18,7 +18,7 @@ div {
 
 #caja1 {
     border-color: red;
-    background-color: cornflowerblue;
+    background-color: blueviolet;
     margin: 2px;
     padding: 2px;
 }
@@ -32,7 +32,7 @@ div {
     border-radius: 98px 98px 98px 98px;
     -moz-border-radius: 98px 98px 98px 98px;
     -webkit-border-radius: 98px 98px 98px 98px;
-    border: 9px double #001eff;
+    border: 9px double darkmagenta;
 }
 
 #caja3 {
